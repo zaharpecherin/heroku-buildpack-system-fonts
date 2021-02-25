@@ -18,6 +18,15 @@ git push heroku master
 tar -czvf fonts.tar.gz ./fonts/
 ```
 
-| Fonts   |
-| ------- |
-| ✓ Arial |
+## Fonts included
+
+Chinese, Korean, and Japanese (https://github.com/CoffeeAndCode/puppeteer-heroku-buildpack/tree/master/fonts)
+* wqy-microhei.ttc
+* wqy-zenhei.ttc
+
+Thai
+* Krub-Bold.ttf
+* Krub-Regular.ttf
+
+Kannada
+* AkayaKanadaka-Regular.ttf
