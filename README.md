@@ -24,9 +24,9 @@ Chinese, Korean, and Japanese (https://github.com/CoffeeAndCode/puppeteer-heroku
 * wqy-microhei.ttc
 * wqy-zenhei.ttc
 
-Thai
+Thai (Google Fonts)
 * Krub-Bold.ttf
 * Krub-Regular.ttf
 
-Kannada
+Kannada (Google Fonts)
 * AkayaKanadaka-Regular.ttf
