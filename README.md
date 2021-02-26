@@ -6,7 +6,7 @@ This buildpack makes it easy to install system fonts on Heroku [stacks](https://
 
 ```bash
 # Add the buildpack
-heroku buildpacks:add --index 2 https://github.com/waggl/heroku-buildpack-system-fonts.git
+heroku buildpacks:add https://github.com/waggl/heroku-buildpack-system-fonts.git
 
 #Deploy
 git push heroku master
